@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/codeception",
+    "name": "yayanbachtiar/codeception",
     "description": "Run CakePHP tests using Codeception",
     "type": "library",
     "license": "MIT",
